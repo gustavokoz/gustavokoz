@@ -1,5 +1,5 @@
 Desenvolvedor em:
- Python
+ <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15">python
  HTML5
  CSS3
 Projetos ativos:
