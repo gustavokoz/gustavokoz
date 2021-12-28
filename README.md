@@ -5,9 +5,9 @@
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064511017349140/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6340fb2.9494659815317498462133.png?width=336&height=473" width="15">Javascript</li>
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064821920104488/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c70f0195.6239386615317498310615.png?width=473&height=473" width="15">nodejs</li>
   <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="15">php</li>
-<h2>Projetos ativos:</h2>
+<h3>Projetos ativos:</h3>
 <li> josef </li>
-<br><h2>Meios de contato:</h2></br>
+<br><h3>Meios de contato:</h3></br>
 <li>Discord: gustavokoz#7782</li>
 <li>E-mail: gustavokozbr@gmail.com</li>
 
