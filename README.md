@@ -10,4 +10,11 @@ Projetos ativos:
 <br>Meios de contato:</br>
 <li>Discord: gustavokoz#7782</li>
 <li>E-mail: gustavokozbr@gmail.com</li>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokoz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Estatísticas:
+
+<div>
+  <a href="https://github.com/gustavokoz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokoz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoz&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
