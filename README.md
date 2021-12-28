@@ -4,6 +4,7 @@ Desenvolvedor em:
  <li><img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15">CSS3</li>
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064511017349140/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6340fb2.9494659815317498462133.png?width=336&height=473" width="15">Javascript</li>
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064821920104488/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c70f0195.6239386615317498310615.png?width=473&height=473" width="15">nodejs</li>
+  <li><img src="https://img1.gratispng.com/20180926/jft/kisspng-logo-php-image-mysql-computer-icons-php-development-symphony-solutions-5bac1a8c895702.2394665215380056445626.jpg" width="15">php</li>
 Projetos ativos:
 <li> josef </li>
 <br>Meios de contato:</br>
