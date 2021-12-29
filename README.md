@@ -7,6 +7,7 @@
   <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="15">php</li>
 <h3>Projetos ativos:</h3>
 <li> josef </li>
+<li> bot-tutorial </li>
 <br><h3>Meios de contato:</h3></br>
 <li>Discord: gustavokoz#7782</li>
 <li>E-mail: gustavokozbr@gmail.com</li>
