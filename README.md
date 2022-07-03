@@ -5,6 +5,8 @@
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064511017349140/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d6340fb2.9494659815317498462133.png?width=336&height=473" width="15">Javascript</li>
   <li><img src="https://media.discordapp.net/attachments/861596616090451978/925064821920104488/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c70f0195.6239386615317498310615.png?width=473&height=473" width="15">nodejs</li>
   <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="15">php</li>
+  <li><img src"https://forums.skunity.com/styles/uix/uix/logo.png" width="15">Sk<li>
+  <li><img src"https://logospng.org/wp-content/uploads/java.png" width="15">Java<li>
 <h3>Projetos ativos:</h3>
 <li> josef </li>
 <li> bot-tutorial </li>
