@@ -10,7 +10,7 @@
 <li> bot-tutorial </li>
 <br><h3>Meios de contato:</h3></br>
 <li>Discord: gustavokoz#7782</li>
-<li>E-mail: eu@gustavokoz.tk</li>
+<li>E-mail: eu@gustavokoz.eu</li>
 
 ### Estatísticas:
 
