@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=i+am+beautiful)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Kozlowski;I'm+19+years+old;I+from+Brasil,+RR;I+am+beautiful;Be+Welcome!+:%29)
